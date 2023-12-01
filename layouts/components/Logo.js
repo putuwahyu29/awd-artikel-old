@@ -34,7 +34,7 @@ const Logo = ({ src }) => {
       ) : logo_text ? (
         <>
           {" "}
-          <h1 className="text-primary">{logo_text}</h1>{" "}
+          <h1 className="text-primary dark:text-primary">{logo_text}</h1>{" "}
         </>
       ) : (
         title

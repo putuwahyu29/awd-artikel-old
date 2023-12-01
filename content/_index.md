@@ -3,8 +3,8 @@ banner:
   title: Selamat Datang **!**
   title_small: "Awd Artikel"
   content:
-  image_enable: false
-  image: /images/banner-author.png
+  image_enable: true
+  image: /images/banner.svg
   button:
     enable: true
     label: Tentang Penulis
