@@ -1,0 +1,30 @@
+{
+  "main": [
+    {
+      "name": "Beranda",
+      "url": "/"
+    },
+    {
+      "name": "Artikel",
+      "url": "/posts"
+    },
+    {
+      "name": "Kategori",
+      "url": "/categories"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Beranda",
+      "url": "/"
+    },
+    {
+      "name": "Artikel",
+      "url": "/posts"
+    },
+    {
+      "name": "Kategori",
+      "url": "/categories"
+    }
+  ]
+}

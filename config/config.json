@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Awd Artikel",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "",
+    "logo_white": "/images/logo-light.png",
+    "logo_width": "150",
+    "logo_height": "39",
+    "logo_text": "awd."
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "",
+    "copyright": "Copyright © 2023 Awd"
+  },
+  "metadata": {
+    "meta_author": "Agus Wahyu",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Awd Artikel"
+  },
+  "widgets": {
+    "about": {
+      "enable": false,
+      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Kategori Artikel",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Kategori Artikel"
+    },
+    "newsletter": {
+      "enable": false,
+      "title": "Newsletter",
+      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
