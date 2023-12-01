@@ -8,6 +8,7 @@ categories:
   - Youtube
   - Open Source
   - Android
+featured: true
 ---
 
 Piped itu sendiri juga Youtube Client yang berjalan di website dan LibreTube merupakan implementasinya pada perangkat Android.
