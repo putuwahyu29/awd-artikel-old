@@ -8,6 +8,7 @@ categories:
   - Virtual Mesin
   - Proxmox
   - Hypervisor
+draft: true
 ---
 
 Halo semuanya, kali ini saya mau berbagi mengenai error yang saya alami pada Proxmox VE. Error ini muncul ketika saya ingin menghapus virtual mesin yang sudah tidak terpakai. Errornya seperti diatas. Menurut beberapa sumber, eror tersebut terjadi karena adanya bug pada sistem.
