@@ -3,10 +3,7 @@ title: Aplikasi Open Source pengganti Youtube yaitu Libretube
 date: 2023-05-09T17:00:00.000Z
 image: /images/post/dc14af9b14b2c0d2d117acd8d5afee89e0598063-692x349.webp
 categories:
-  - Gratis
   - LibreTube
-  - Youtube
-  - Open Source
   - Android
 featured: true
 ---
