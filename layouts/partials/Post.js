@@ -30,7 +30,7 @@ const Post = ({ post }) => {
             >
               <Link
                 className="capitalize"
-                href={`/categories/${tag.replace(" ", "-")}`}
+                href={`/categories/${tag.replace(" ", "-").toLowerCase()}`}
               >
                 {tag}
               </Link>
