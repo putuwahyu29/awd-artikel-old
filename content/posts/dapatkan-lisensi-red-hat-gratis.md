@@ -3,10 +3,7 @@ title: Dapatkan Lisensi Red Hat Gratis
 date: 2023-07-19T17:00:00.000Z
 image: /images/post/33655d2f93e959219be6f7d4ba6341753f56dd14-1357x643.webp
 categories:
-  - Gratis
   - Red Hat
-  - Sistem Operasi
-  - Virtual Mesin
   - Linux
 featured: true
 ---
@@ -14,7 +11,6 @@ featured: true
 Haloo semuanya, kali ini saya akan membagikan cara mendapatkan lisensi red hat secara gratis. Lisensi ini bisa digunakan untuk keperluan belajar. Untuk mendapatkan lisensi ini, kita harus terlebih dahulu membuat akun di website Red Hat.
 
 Berikut langkah-langkahnya:
-
 
 1\. Buka website [Red Hat](https://developers.redhat.com/products/rhel/download). Untuk mengunduh file iso tersebut, dibutuhkan sebuah akun, maka buatlah akun terlebih dengan cara klik log in pada pojok kanan atas.![](/images/post/1d27163e21a47005e216c29c7960319b400850c8-1353x640.webp)
 
