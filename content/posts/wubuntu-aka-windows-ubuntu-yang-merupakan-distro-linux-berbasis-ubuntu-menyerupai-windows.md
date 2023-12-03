@@ -9,6 +9,10 @@ categories:
   - Wubuntu
 ---
 
+Wubuntu, juga dikenal sebagai “Windows Ubuntu” adalah sistem operasi yang mewarisi semua tampilan dan fungsionalitas Microsoft Windows (termasuk asisten Copilot baru), namun tidak memerlukan TPM, boot aman, atau persyaratan perangkat keras lainnya untuk pengoperasiannya. Dikembangkan menggunakan sistem operasi Ubuntu sebagai basisnya, Anda memiliki sistem yang cepat, aman, dan sangat efisien. Anda juga dapat menjalankan aplikasi Microsoft Windows dan Android menggunakan Wubuntu.
+
+Wubuntu terdapat berbagai macam versi, salah satunya yaitu Windows Ubuntu 11 Plasma.
+
 Berikut merupakan tampilan dari Powershell yang menampilkan neofetch.
 
 ![](/images/post/cfa20d3cd6fac63ad66c6bf1bcbba8d2e1e7a3c6-1360x768.webp)
