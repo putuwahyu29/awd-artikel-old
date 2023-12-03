@@ -2,7 +2,7 @@
 title: >-
   Wubuntu aka Windows Ubuntu yang merupakan distro Linux berbasis Ubuntu
   menyerupai Windows
-date: 2023-04-04T17:00:00.000Z
+date: 2023-06-26T17:00:00.000Z
 image: /images/post/959cb4addb3bb8ab63586b8a739b7902b4659fe6-1340x585.webp
 categories:
   - Windows
@@ -15,7 +15,6 @@ Berikut merupakan tampilan dari Powershell yang menampilkan neofetch.
 
 Tampilan Task Manager atau yang biasa disebut dengan System Monitor.
 
-
 ![](/images/post/b0dd6bf57f58ca044dc80a80443126814d6c163f-1360x768.webp)Tampilan Settings
 
 ![](/images/post/3725062add6e145e04f017aefeb596468f3ad477-1360x768.webp)
@@ -27,5 +26,3 @@ Tampilan File Explorer![](/images/post/2333108f0a837533fa665c73701f3b4451bfa3bf-
 Tampilan Wubuntu Android Support![](/images/post/cc16ce7da5203670d048f00a2b6ba5d7b9a52acd-1360x768.webp)
 
 Tampilan power off Wubuntu![](/images/post/0fce32839f0fc892911395eef96d9e5b45dd26bc-1360x768.webp)
-
-
