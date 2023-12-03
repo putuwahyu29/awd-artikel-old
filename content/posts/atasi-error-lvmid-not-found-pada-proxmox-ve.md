@@ -4,10 +4,7 @@ date: 2023-07-12T17:00:00.000Z
 image: /images/post/fbac981243034b49262646a1fd5cc12e3fec5ff5-1920x367.webp
 categories:
   - Lvmid
-  - Not Found
-  - Virtual Mesin
   - Proxmox
-  - Hypervisor
 draft: true
 ---
 
