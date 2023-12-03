@@ -3,9 +3,6 @@ title: Instal Aplikasi Linux di memori eksternal Chrome OS
 date: 2023-05-30T17:00:00.000Z
 image: /images/post/272126c7af70aa703a2506b2a83f984bbddfd242-4608x3456.webp
 categories:
-  - Memori Eksternal
-  - Sistem Operasi
-  - Chromebook
   - Linux
   - Chrome OS
 featured: true
