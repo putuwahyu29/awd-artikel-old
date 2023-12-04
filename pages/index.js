@@ -51,7 +51,7 @@ const Home = ({
               }
             >
               <div className="banner-title">
-                {markdownify(banner.title, "span")}
+                {markdownify(banner.title, "h1")}
                 {markdownify(banner.title_small, "span")}
               </div>
               {markdownify(banner.content, "p", "mt-4")}
