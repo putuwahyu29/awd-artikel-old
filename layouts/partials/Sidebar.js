@@ -169,19 +169,19 @@ const Sidebar = ({ posts, categories, className }) => {
             url={newsletter.malichip_url}
             render={({ subscribe, status, message }) => (
               <CustomForm
-                onValidated={(formData) => subscribe(formData)}
                 status={status}
                 message={message}
+                onValidated={(formData) => subscribe(formData)}
               />
             )}
           />
           <p className="text-xs">
-            By Singing Up, You Agree To
+            Jika berlangganan, Anda telah menyetujui
             <Link
               href={newsletter.privacy_policy_page}
               className="ml-1 text-primary"
             >
-              Privacy Policy
+              Kebijakan Privasi
             </Link>
           </p>
         </div>

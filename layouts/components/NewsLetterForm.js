@@ -10,7 +10,7 @@ function CustomForm({ status, message, onValidated }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    email && email.indexOf("@") > -1 && onValidated({ EMAIL: email });
+    email && email.indexOf("@") > -1;
     resetForm();
   };
 
@@ -21,17 +21,17 @@ function CustomForm({ status, message, onValidated }) {
           <input
             className="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-theme-light px-5 py-3 pr-12 text-dark placeholder:text-xs dark:bg-darkmode-theme-dark"
             type="text"
-            placeholder="Ketik dan tekan enter..."
+            placeholder="Alamat Email"
             onChange={(e) => setEmail(e.target.value)}
           />
           <FaEnvelope className="absolute right-5 top-1/2 -translate-y-1/2 text-xl transition duration-75" />
         </fieldset>
         <button className="d-block  btn btn-primary mt-4 w-full" type="submit">
-          Sign In
+          Berlangganan
         </button>
       </form>
       {status === "sending" && (
-        <div className="mt-4 text-primary">sending...</div>
+        <div className="mt-4 text-primary">Mohon Tunggu...</div>
       )}
       {status === "error" && (
         <div
@@ -40,7 +40,9 @@ function CustomForm({ status, message, onValidated }) {
         />
       )}
       {status === "success" && (
-        <div className="mt-4 text-green-700">Subscribed !</div>
+        <div className="mt-4 text-green-700">
+          Berhasil, Anda telah berlangganan !
+        </div>
       )}
     </>
   );
