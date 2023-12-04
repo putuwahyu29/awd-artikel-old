@@ -14,25 +14,25 @@ Saya sudah menggunakan Samsung Chromebook 4 dalam beberapa bulan terakhir sebaga
 
 Sekedar informasi, laptop ini berspesifikasi sebagai berikut :
 
-1\. Intel Celeron N4020 1,1GHz (2 core 2 thread) + Intel UHD 600
-2\. Ram LPDDR4 4GB On Board
-3\. Layar 11,6 HD (1366×768)
-4\. Penyimpanan 32GB eMMC + Slot Memory Card Max 1 TB
-5\. Port yang ada 1USB C + 1 USB 3.0 + Card Reader + 1 Handphone Jack
+1. Intel Celeron N4020 1,1GHz (2 core 2 thread) + Intel UHD 600
+2. Ram LPDDR4 4GB On Board 
+3. Layar 11,6 HD (1366×768)
+4.  Penyimpanan 32GB eMMC + Slot Memory Card Max 1 TB
+5. Port yang ada 1USB C + 1 USB 3.0 + Card Reader + 1 Handphone Jack
 
 Oke mari kita berbicara mengenai pemakaian sehari hari. Disini saya memposisikan laptop ini sebagai laptop kedua untuk penggunaan sebagai mahasiswa komputasi statistik yang berhubungan dengan pengolahan data statistik dan pengembangaan web serta aplikasi desktop.
 
 Pada laptop ini ada beberapa aplikasi yang saya instal, ini selain bawaan chrome os nya (Linux sudah diaktifkan)
 
-1\. Zoom Meeting — Versi Chromebook
-2\. Visual Studio Code — Linux
-3\. Intellij IDEA — Linux
-4\. Google Chrome — Linux
-5\. Xampp — Linu
-6\. R + R Studio — Linux
-7\. Free Office 2021 — Linux
-8\. PC ManFM — Linux
-9\. Gnome Software — Linux
+1. Zoom Meeting — Versi Chromebook
+2. Visual Studio Code — Linux
+3. Intellij IDEA — Linux
+4.  Google Chrome — Linux
+5. Xampp — Linu
+6. R + R Studio — Linux
+7. Free Office 2021 — Linux
+8. PC ManFM — Linux
+9. Gnome Software — Linux
 
 Saya mulai dengan Zoom. Sampai saat ini hanya beberapa Chrome Os saja yang dapat menggunakan vbg tanpa ada shapenya. Kelebihan Zoom versi Chromebook yang ada di Playstore yaitu hampir bisa menggunakan semua fitur di Zoom Windows. Yang saya rasa kekurangannya saat ini seperti whiteboard bawaan tidak ada. Vbg masih ada bentuk shape. Untuk zoom versi android tidak tersedia di playstore dan versi chrome web store fiturnya sangat terbatas. Sedangkan zoom versi linux masih belum bisa menggunakan kamera.
 
@@ -51,7 +51,6 @@ Kemudian terdapat R dan R Studio untuk pengolahan data. Ini versi linux yang sam
 ![](/images/post/c74767865270a0346d568876741b9b854ad2111f-4608x3456.webp)
 
 Selanjutnya terdapat FreeOffice Softmaker. Aplikasi ini merupakan alternatif Ms Office. Alasan saya menggunakan ini karena kecocokannya dengan Ms Office sudah sangat mirip berdasarkan tampilan serta format dokumen yang dibuka. FreeOffice ini merupakan versi Linux. Memang terdapat software lain yang versi linux ataupun android. Dan juga beberapa orang yang menginstall Wine serta play on linux atupun bootle untuk menginstall Ms office. Namun dari saya sendiri tidak menyarankan menginstallnya karena akan benar benar menghabiskan ruang penyimpanan. Balik lagi ke Free office ini gratis namun ada versi berbayar yang harganya 400k dengan fitur yang lengkap. Namun versi free yang rasa sudah cukup.
-
 
 ![](/images/post/ac77a581443c79ff34514931534011e78d2e34e9-4608x3456.webp)
 
