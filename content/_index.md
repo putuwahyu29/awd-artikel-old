@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Selamat Datang **!**
-  title_small: "Awd Artikel"
-  content:
+  title: Awd Artikel
+  title_small:
+  content: "Di sini, Anda akan menemukan banyak artikel yang menarik dan informatif. Berbagai artikel tersebut berfokus pada topik mengenai teknologi."
   image_enable: true
   image: /images/banner.svg
   button:
