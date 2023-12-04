@@ -3,7 +3,7 @@ title: Memaksimalkan Tailscale VPN untuk mengontrol server rumahan
 date: 2023-11-06T17:00:00.000Z
 image: /images/post/a40f99b618a364ad3cd747b5ff1dca874c78e647-1920x1033.webp
 categories:
-  - Tailscale VPN
+  - Tailscale
   - Proxmox
 featured: true
 ---
@@ -64,7 +64,7 @@ B. Skenario 2 : Konfigurasi DNS Lokal Pihole
 
 ![](/images/post/bfacf6ce5e5f29b64f67922c082ec0294ebc82df-1920x1033.webp)Pada Skenario 1, kita sudah dapat mengakses home server kita namun hanya menggunakan IP saja.
 
-Jika kita sudah mengatur DNS Lokal pada pihole, maka langkahnya yaitu 
+Jika kita sudah mengatur DNS Lokal pada pihole, maka langkahnya yaitu
 
 1\. Lakukan instalasi Tailscale pada pihole anda, jalankan perintah pada terminal
 
@@ -95,7 +95,6 @@ tailscale up --accept-dns=false
 7\. Selanjutnya buka pihole, kemudian settings, kemudian DNS, kemudian klik pada permit all Origins.Selamat, anda sudah dapat menggunakan DNS Lokal anda.
 
 C. Skenario 3 : Tailscale VPN sebagai Exit Node
-
 
 ![](/images/post/5ee8f0d60b26efbd92f07c76c0e085923876d35b-1920x1033.webp)
 
