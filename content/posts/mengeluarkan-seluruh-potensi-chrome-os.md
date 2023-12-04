@@ -1,7 +1,7 @@
 ---
 title: Mengeluarkan seluruh potensi Chrome OS
 date: 2023-04-25T17:00:00.000Z
-image: /images/post/341580357_567302425486002_8668022984307178983_n.jpg
+image: /images/post/banner/5.png
 categories:
   - Chromebook
   - Chrome OS

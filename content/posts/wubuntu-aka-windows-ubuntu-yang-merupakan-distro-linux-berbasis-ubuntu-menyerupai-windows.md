@@ -3,13 +3,15 @@ title: >-
   Wubuntu aka Windows Ubuntu yang merupakan distro Linux berbasis Ubuntu
   menyerupai Windows
 date: 2023-06-26T17:00:00.000Z
-image: /images/post/959cb4addb3bb8ab63586b8a739b7902b4659fe6-1340x585.webp
+image: /images/post/banner/8.png
 categories:
   - Windows
   - Wubuntu
 ---
 
 Wubuntu, juga dikenal sebagai “Windows Ubuntu” adalah sistem operasi yang mewarisi semua tampilan dan fungsionalitas Microsoft Windows (termasuk asisten Copilot baru), namun tidak memerlukan TPM, boot aman, atau persyaratan perangkat keras lainnya untuk pengoperasiannya. Dikembangkan menggunakan sistem operasi Ubuntu sebagai basisnya, Anda memiliki sistem yang cepat, aman, dan sangat efisien. Anda juga dapat menjalankan aplikasi Microsoft Windows dan Android menggunakan Wubuntu.
+
+![](/images/post/959cb4addb3bb8ab63586b8a739b7902b4659fe6-1340x585.webp)
 
 Wubuntu terdapat berbagai macam versi, salah satunya yaitu Windows Ubuntu 11 Plasma.
 

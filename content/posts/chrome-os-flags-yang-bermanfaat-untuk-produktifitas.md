@@ -1,7 +1,7 @@
 ---
 title: Chrome OS flags yang bermanfaat untuk produktifitas
 date: 2023-04-25T17:00:00.000Z
-image: /images/post/291305317_2054647104721795_508813118415403670_n.jpg
+image: /images/post/banner/6.png
 categories:
   - Chromebook
   - Chrome OS

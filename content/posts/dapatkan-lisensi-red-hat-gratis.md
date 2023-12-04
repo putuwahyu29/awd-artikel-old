@@ -1,7 +1,7 @@
 ---
 title: Dapatkan Lisensi Red Hat Gratis
 date: 2023-07-19T17:00:00.000Z
-image: /images/post/33655d2f93e959219be6f7d4ba6341753f56dd14-1357x643.webp
+image: /images/post/banner/9.png
 categories:
   - Red Hat
   - Linux

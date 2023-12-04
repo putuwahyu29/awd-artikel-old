@@ -1,7 +1,7 @@
 ---
 title: Memaksimalkan Tailscale VPN untuk mengontrol server rumahan
 date: 2023-11-06T17:00:00.000Z
-image: /images/post/a40f99b618a364ad3cd747b5ff1dca874c78e647-1920x1033.webp
+image: /images/post/banner/12.png
 categories:
   - Tailscale
   - Proxmox
@@ -36,7 +36,7 @@ curl -fsSL https://tailscale.com/install.sh | sh
 sudo tailscale up
 ```
 
-Kemudian akan muncul tautan untuk login ke akun anda. Pada langkah selanjutnya akan dijelaskan cara melakukan Subnets router. (Panduan lengkap :https\://tailscale.com/kb/1019/subnets/)
+Kemudian akan muncul tautan untuk login ke akun anda. Pada langkah selanjutnya akan dijelaskan cara melakukan Subnets router. (Panduan lengkap :[https://tailscale.com/kb/1019/subnets/](https://tailscale.com/kb/1019/subnets/))
 
 4\. Selanjutnya jalankan 3 perintah pada terminal
 
@@ -122,7 +122,7 @@ curl -fsSL https://tailscale.com/install.sh | sh
 sudo tailscale up
 ```
 
-Kemudian akan muncul tautan untuk login ke akun anda. Pada langkah selanjutnya akan dijelaskan cara melakukan Subnets router. (Panduan lengkap :https\://tailscale.com/kb/1019/subnets/)
+Kemudian akan muncul tautan untuk login ke akun anda. Pada langkah selanjutnya akan dijelaskan cara melakukan Subnets router. (Panduan lengkap :[https://tailscale.com/kb/1019/subnets/](https://tailscale.com/kb/1019/subnets/))
 
 4\. Selanjutnya jalankan 3 perintah pada terminal
 

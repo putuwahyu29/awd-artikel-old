@@ -3,7 +3,7 @@ title: >-
   Apakah Chrome OS bisa menggantikan Windows di masa depan ? Pengenalan singkat
   Chrome OS
 date: 2022-05-07T17:00:00.000Z
-image: /images/post/544173bee898cbfd08238f6d9b02e8f8ceb452d2-4608x3456.webp
+image: /images/post/banner/8.png
 categories:
   - Linux
   - Chrome OS
@@ -15,9 +15,9 @@ Saya sudah menggunakan Samsung Chromebook 4 dalam beberapa bulan terakhir sebaga
 Sekedar informasi, laptop ini berspesifikasi sebagai berikut :
 
 1. Intel Celeron N4020 1,1GHz (2 core 2 thread) + Intel UHD 600
-2. Ram LPDDR4 4GB On Board 
+2. Ram LPDDR4 4GB On Board
 3. Layar 11,6 HD (1366×768)
-4.  Penyimpanan 32GB eMMC + Slot Memory Card Max 1 TB
+4. Penyimpanan 32GB eMMC + Slot Memory Card Max 1 TB
 5. Port yang ada 1USB C + 1 USB 3.0 + Card Reader + 1 Handphone Jack
 
 Oke mari kita berbicara mengenai pemakaian sehari hari. Disini saya memposisikan laptop ini sebagai laptop kedua untuk penggunaan sebagai mahasiswa komputasi statistik yang berhubungan dengan pengolahan data statistik dan pengembangaan web serta aplikasi desktop.
@@ -27,7 +27,7 @@ Pada laptop ini ada beberapa aplikasi yang saya instal, ini selain bawaan chrome
 1. Zoom Meeting — Versi Chromebook
 2. Visual Studio Code — Linux
 3. Intellij IDEA — Linux
-4.  Google Chrome — Linux
+4. Google Chrome — Linux
 5. Xampp — Linu
 6. R + R Studio — Linux
 7. Free Office 2021 — Linux

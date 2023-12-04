@@ -1,7 +1,7 @@
 ---
 title: Home Server Proxmox VE Terbaru
 date: 2023-10-31T17:00:00.000Z
-image: /images/post/397140550_2400324666820702_3351127338078759360_n.jpg
+image: /images/post/banner/11.png
 categories:
   - Hypervisor
   - Proxmox

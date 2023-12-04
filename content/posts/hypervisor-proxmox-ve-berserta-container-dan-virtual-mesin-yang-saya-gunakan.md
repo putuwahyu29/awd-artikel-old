@@ -1,7 +1,7 @@
 ---
 title: Hypervisor Proxmox VE berserta Container dan Virtual Mesin yang saya gunakan
 date: 2023-07-24T17:00:00.000Z
-image: /images/post/0ee8b01ee5660099d46e0363ab0c9ced202f1a4a-1366x768.webp
+image: /images/post/banner/10.png
 categories:
   - Hypervisor
   - Proxmox
