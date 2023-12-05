@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Awd Artikel",
-    "base_url": "/",
+    "base_url": "https://blog.awd.my.id",
     "favicon": "/images/favicon.png",
     "logo": "",
     "logo_white": "",

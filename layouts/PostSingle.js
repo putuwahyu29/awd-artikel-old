@@ -12,8 +12,21 @@ import { FaRegCalendar, FaUserAlt } from "react-icons/fa";
 import Post from "./partials/Post";
 import Sidebar from "./partials/Sidebar";
 import shortcodes from "./shortcodes/all";
+import {
+  FacebookShareButton,
+  FacebookIcon,
+  TwitterShareButton,
+  TwitterIcon,
+  WhatsappShareButton,
+  WhatsappIcon,
+  LinkedinShareButton,
+  LinkedinIcon,
+  TelegramShareButton,
+  TelegramIcon,
+} from "next-share";
 const { disqus } = config;
 const { meta_author } = config.metadata;
+const { base_url } = config.site;
 
 const PostSingle = ({
   frontmatter,
@@ -98,7 +111,44 @@ const PostSingle = ({
                   <InnerPagination posts={posts} date={date} />
                 )}
               </article>
+
+              {/* Share */}
+              <div className="mt-5 space-x-4">
+                <h3 className="section-title">Bagikan Artikel Ini</h3>
+                <FacebookShareButton
+                  url={`${base_url}/${config.settings.blog_folder}/${slug}`}
+                  quote={title}
+                >
+                  <FacebookIcon size={40} round={true} />
+                </FacebookShareButton>
+                <TwitterShareButton
+                  url={`${base_url}/${config.settings.blog_folder}/${slug}`}
+                  title={title}
+                >
+                  <TwitterIcon size={40} round />
+                </TwitterShareButton>
+                <WhatsappShareButton
+                  url={`${base_url}/${config.settings.blog_folder}/${slug}`}
+                  title={title}
+                  separator=":: "
+                >
+                  <WhatsappIcon size={40} round />
+                </WhatsappShareButton>
+                <LinkedinShareButton
+                  url={`${base_url}/${config.settings.blog_folder}/${slug}`}
+                >
+                  <LinkedinIcon size={40} round />
+                </LinkedinShareButton>
+                <TelegramShareButton
+                  url={`${base_url}/${config.settings.blog_folder}/${slug}`}
+                  title={title}
+                >
+                  <TelegramIcon size={40} round />
+                </TelegramShareButton>
+              </div>
+
               <div className="mt-16">
+                <h3 className="section-title">Komentar</h3>
                 {disqus.enable && (
                   <DiscussionEmbed
                     key={theme}
