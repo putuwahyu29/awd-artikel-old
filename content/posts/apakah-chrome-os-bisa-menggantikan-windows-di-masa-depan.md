@@ -1,6 +1,5 @@
 ---
-title: >-
-  Apakah Chrome OS bisa menggantikan Windows di masa depan ? Pengenalan singkat
+title: Apakah Chrome OS bisa menggantikan Windows di masa depan ? Pengenalan singkat
   Chrome OS
 date: 2022-05-07T17:00:00.000Z
 image: /images/post/banner/8.png

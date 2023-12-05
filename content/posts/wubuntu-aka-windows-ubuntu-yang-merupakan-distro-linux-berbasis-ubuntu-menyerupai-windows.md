@@ -1,6 +1,5 @@
 ---
-title: >-
-  Wubuntu aka Windows Ubuntu yang merupakan distro Linux berbasis Ubuntu
+title: Wubuntu aka Windows Ubuntu yang merupakan distro Linux berbasis Ubuntu
   menyerupai Windows
 date: 2023-06-26T17:00:00.000Z
 image: /images/post/banner/8.png
