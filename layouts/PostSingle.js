@@ -117,7 +117,7 @@ const PostSingle = ({
 
         {/* Related posts */}
         <div className="container mt-20">
-          <h2 className="section-title">Artikel Terkini</h2>
+          <h2 className="section-title">Artikel Terkait</h2>
           <div className="row mt-16">
             {relatedPosts.slice(0, 3).map((post, index) => (
               <div key={"post-" + index} className="mb-12 lg:col-4">
