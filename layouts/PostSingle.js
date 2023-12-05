@@ -49,7 +49,7 @@ const PostSingle = ({
     : config.settings.blog_folder + "/" + slug;
 
   return (
-    <Base title={title} description={description}>
+    <Base title={title} description={description} image={image}>
       <section className="section single-blog mt-6">
         <div className="container">
           <div className="row">

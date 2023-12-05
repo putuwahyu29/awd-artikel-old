@@ -29,7 +29,7 @@ const Home = ({
   const showPosts = pagination;
 
   return (
-    <Base>
+    <Base title="Beranda">
       {/* Banner */}
       <section className="section banner relative pb-0">
         <ImageFallback

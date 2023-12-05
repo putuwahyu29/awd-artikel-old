@@ -4,7 +4,7 @@ import { MDXRemote } from "next-mdx-remote";
 
 const Default = ({ data }) => {
   const { frontmatter, mdxContent } = data;
-  const { title } = frontmatter;
+  const { title, image } = frontmatter;
   return (
     <section className="section">
       <div className="container">

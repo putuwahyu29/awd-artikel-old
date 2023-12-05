@@ -10,7 +10,7 @@ import { slugify } from "@lib/utils/textConverter";
 
 const Categories = ({ categories }) => {
   return (
-    <Base title={"categories"}>
+    <Base title={"Semua Kategori"}>
       <section className="section pt-0">
         {markdownify(
           "Kategori",

@@ -25,7 +25,8 @@ const Base = ({
         <title>
           {plainify(
             meta_title ? meta_title : title ? title : config.site.title
-          )}
+          )}{" "}
+          | {config.site.title}
         </title>
 
         {/* canonical url */}
