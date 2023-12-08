@@ -60,6 +60,7 @@ const Home = ({
                   className="btn btn-primary mt-6"
                   href={banner.button.link}
                   rel={banner.button.rel}
+                  target="_blank"
                 >
                   {banner.button.label}
                 </Link>

@@ -24,9 +24,12 @@ const Base = ({
         {/* title */}
         <title>
           {plainify(
-            meta_title ? meta_title : title ? title : config.site.title
-          )}{" "}
-          | {config.site.title}
+            meta_title
+              ? meta_title
+              : title
+              ? title + " | Awd Artikel"
+              : config.site.title
+          )}
         </title>
 
         {/* canonical url */}
