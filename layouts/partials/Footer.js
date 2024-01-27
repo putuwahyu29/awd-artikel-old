@@ -36,7 +36,7 @@ const Footer = () => {
         </ul>
         {/* copyright */}
         {markdownify(
-          `Copyright &copy; ${new Date().getFullYear()} ${copyright}`,
+          `Copyright &copy; 2023 - ${new Date().getFullYear()} ${copyright}`,
           "p"
         )}
       </div>
