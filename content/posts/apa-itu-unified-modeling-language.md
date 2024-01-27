@@ -7,8 +7,6 @@ categories:
   - Desain
 ---
 
-### Pengertian
-
 UML adalah bahasa pemodelan grafis yang digunakan untuk mengidentifikasi, memvisualisasikan, menyusun, mengatur, dan mendokumentasikan artefak sistem perangkat lunak. Ini mencakup semantik, notasi, dan pedoman. Ini bertujuan untuk mendukung metodologi pengembangan berorientasi objek terkini.
 
 ### Sejarah
@@ -69,7 +67,7 @@ Behavior Diagram yang sering digunakan terdiri dari :
 
 ![](/images/post/uml/12.webp)
 
-### Refrensi 
+### Refrensi
 
 Li, Q., & Chen, Y.-L. (2009). Modeling and Analysis of Enterprise and Information Systems From Requirements to Realization.
 
