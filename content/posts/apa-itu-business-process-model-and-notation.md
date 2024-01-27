@@ -71,3 +71,4 @@ Message Flow digunakan untuk menunjukkan aliran pesan antara dua partisipan yait
 
 * Li, Q., & Chen, Y. L. (2009). Modeling and Analysis of Enterprise and Information Systems: from requirements to realization. Higher Education Press.
 * What is BPMN? (n.d.). Retrieved January 8, 2024, from [https://www.visual-paradigm.com/guide/bpmn/what-is-bpmn/](https://www.visual-paradigm.com/guide/bpmn/what-is-bpmn/)
+* Object Management Group Business Process Model and Notation. Retrieved January 8, 2024, from [https://www.bpmn.org/](https://www.bpmn.org/)
