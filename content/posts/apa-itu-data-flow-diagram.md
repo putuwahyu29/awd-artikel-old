@@ -15,12 +15,11 @@ Data Flow Diagram (DFD) adalah metode analisis dan desain terstruktur. Ini adala
 
 DFD mencakup ciri-ciri sebagai berikut:
 
-mendukung tahap analisis dan kebutuhan perancangan sistem;
-
-1. teknik pembuatan diagram dengan anotasi;
-2. mendeskripsikan jaringan aktivitas/proses sistem sasaran;
-3. memungkinkan perilaku paralel dan asinkron;
-4. penyempurnaan bertahap melalui dekomposisi proses secara hierarkis.
+1. mendukung tahap analisis dan kebutuhan perancangan sistem;
+2. teknik pembuatan diagram dengan anotasi;
+3. mendeskripsikan jaringan aktivitas/proses sistem sasaran;
+4. memungkinkan perilaku paralel dan asinkron;
+5. penyempurnaan bertahap melalui dekomposisi proses secara hierarkis.
 
 ### Contoh 
 
@@ -54,10 +53,23 @@ Entitas Eksternal merupakan asal/tujuan aliran data eksternal dan menyediakan ko
 
 ![](/images/post/dfd/Gambar6.png)
 
-   
+### Aturan DFD
+
+Suatu entitas tidak dapat memberikan data ke entitas lain tanpa terjadi pemrosesan.![](/images/post/dfd/Gambar8.png)
+
+Data tidak dapat berpindah secara langsung dari suatu entitas ke cerita data tanpa diproses.
+
+![](/images/post/dfd/Gambar10.png)
+
+Data tidak dapat berpindah langsung dari penyimpanan data tanpa diproses.'
+
+![](/images/post/dfd/Gambar12.png)
+
+Data tidak dapat berpindah langsung dari satu penyimpanan data ke penyimpanan data lainnya tanpa diproses
+
+![](/images/post/dfd/Gambar14.png)
 
 ### Refrensi
 
-Li, Q., & Chen, Y. L. (2009). Modeling and Analysis of Enterprise and Information Systems: from requirements to realization. Higher Education Press.
-
-What is Data Flow Diagram? (n.d.). Retrieved January 1, 2024, from [https://www.visual-paradigm.com/guide/data-flow-diagram/what-is-data-flow-diagram/](https://www.visual-paradigm.com/guide/data-flow-diagram/what-is-data-flow-diagram/)
+* Li, Q., & Chen, Y. L. (2009). Modeling and Analysis of Enterprise and Information Systems: from requirements to realization. Higher Education Press.
+* What is Data Flow Diagram? (n.d.). Retrieved January 1, 2024, from [https://www.visual-paradigm.com/guide/data-flow-diagram/what-is-data-flow-diagram/](https://www.visual-paradigm.com/guide/data-flow-diagram/what-is-data-flow-diagram/)
