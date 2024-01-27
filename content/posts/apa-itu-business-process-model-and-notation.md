@@ -72,4 +72,4 @@ Message Flow digunakan untuk menunjukkan aliran pesan antara dua partisipan yait
 ### ![](/images/post/bpmn/Gambar10.png)Refrensi
 
 * Li, Q., & Chen, Y. L. (2009). Modeling and Analysis of Enterprise and Information Systems: from requirements to realization. Higher Education Press.
-* What is Unified Modeling Language (UML)? (n.d.). Retrieved January 1, 2024, from [https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-uml/)
+* What is BPMN? (n.d.). Retrieved January 8, 2024, from [https://www.visual-paradigm.com/guide/bpmn/what-is-bpmn/](https://www.visual-paradigm.com/guide/bpmn/what-is-bpmn/)
