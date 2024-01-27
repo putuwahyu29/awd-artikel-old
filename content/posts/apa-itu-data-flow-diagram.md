@@ -7,8 +7,6 @@ categories:
   - Analisis
 ---
 
-### Pengertian
-
 Data Flow Diagram (DFD) adalah metode analisis dan desain terstruktur. Ini adalah alat visual untuk menggambarkan model logika dan mengekspresikan transformasi data dalam suatu sistem. DFD mencakup mekanisme untuk memodelkan aliran data. Ini mendukung dekomposisi untuk menggambarkan detail aliran data dan fungsinya. DFD tidak dapat menyajikan informasi urutan operasi. Oleh karena itu, ini bukan metode pemodelan proses atau prosedur.
 
 ### Ciri-ciri
@@ -21,7 +19,7 @@ DFD mencakup ciri-ciri sebagai berikut:
 4. Memungkinkan perilaku paralel dan asinkron;
 5. Penyempurnaan bertahap melalui dekomposisi proses secara hierarkis.
 
-### Contoh 
+### Contoh
 
 ![](/images/post/dfd/Gambar2.png)
 
