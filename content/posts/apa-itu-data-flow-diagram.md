@@ -15,11 +15,11 @@ Data Flow Diagram (DFD) adalah metode analisis dan desain terstruktur. Ini adala
 
 DFD mencakup ciri-ciri sebagai berikut:
 
-1. mendukung tahap analisis dan kebutuhan perancangan sistem;
-2. teknik pembuatan diagram dengan anotasi;
-3. mendeskripsikan jaringan aktivitas/proses sistem sasaran;
-4. memungkinkan perilaku paralel dan asinkron;
-5. penyempurnaan bertahap melalui dekomposisi proses secara hierarkis.
+1. Mendukung tahap analisis dan kebutuhan perancangan sistem;
+2. Teknik pembuatan diagram dengan anotasi;
+3. Mendeskripsikan jaringan aktivitas/proses sistem sasaran;
+4. Memungkinkan perilaku paralel dan asinkron;
+5. Penyempurnaan bertahap melalui dekomposisi proses secara hierarkis.
 
 ### Contoh 
 
@@ -55,19 +55,10 @@ Entitas Eksternal merupakan asal/tujuan aliran data eksternal dan menyediakan ko
 
 ### Aturan DFD
 
-Suatu entitas tidak dapat memberikan data ke entitas lain tanpa terjadi pemrosesan.![](/images/post/dfd/Gambar8.png)
-
-Data tidak dapat berpindah secara langsung dari suatu entitas ke cerita data tanpa diproses.
-
-![](/images/post/dfd/Gambar10.png)
-
-Data tidak dapat berpindah langsung dari penyimpanan data tanpa diproses.'
-
-![](/images/post/dfd/Gambar12.png)
-
-Data tidak dapat berpindah langsung dari satu penyimpanan data ke penyimpanan data lainnya tanpa diproses
-
-![](/images/post/dfd/Gambar14.png)
+1. Suatu entitas tidak dapat memberikan data ke entitas lain tanpa terjadi pemrosesan.
+2. Data tidak dapat berpindah secara langsung dari suatu entitas ke cerita data tanpa diproses.
+3. Data tidak dapat berpindah langsung dari penyimpanan data tanpa diproses.
+4. Data tidak dapat berpindah langsung dari satu penyimpanan data ke penyimpanan data lainnya tanpa diproses
 
 ### Refrensi
 
