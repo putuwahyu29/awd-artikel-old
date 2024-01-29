@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 import TagManager from "react-gtm-module";
 import "styles/style.scss";
 import ScrollToTop from "@layouts/components/ScrollToTop";
+import { Analytics } from "@vercel/analytics/react";
 
 const App = ({ Component, pageProps }) => {
   // default theme setup
@@ -60,6 +61,7 @@ const App = ({ Component, pageProps }) => {
       <ThemeProvider attribute="class" defaultTheme={default_theme}>
         <Component {...pageProps} />
         <ScrollToTop />
+        <Analytics />
       </ThemeProvider>
     </JsonContext>
   );
