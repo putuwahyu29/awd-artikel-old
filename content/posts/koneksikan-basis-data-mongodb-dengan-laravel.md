@@ -8,7 +8,9 @@ categories:
 draft: false
 ---
 
-Dukungan MongoDB di Laravel disediakan secara resmi pada paket [mongodb/laravel-mongodb](https://github.com/mongodb/laravel-mongodb) yang merupakan perluasan dari Eloquent, bawaan Laravel ORM.
+Salah satu keunggulan Laravel adalah kemampuannya untuk berintegrasi dengan berbagai jenis basis data, termasuk MongoDB. Dukungan resmi untuk MongoDB di Laravel disediakan melalui paket mongodb/laravel-mongodb, yang merupakan perluasan dari Eloquent, ORM bawaan Laravel.
+
+Paket mongodb/laravel-mongodb memungkinkan pengembang Laravel untuk menggunakan MongoDB sebagai basis data untuk aplikasi mereka dengan mudah. Dengan menggunakan paket ini, pengembang dapat memanfaatkan kekuatan dan fleksibilitas MongoDB dalam membangun aplikasi yang skalabel dan performa tinggi.
 
 ### Instalasi MongoDB di Windows
 
@@ -18,7 +20,7 @@ Untuk menggunakan MongoDB di sistem operasi Windows, saya menyarankan Anda untuk
 
 ### Aktivasi MongoDB PHP Driver di Windows
 
-1. Silahkan unduh driver dan sesuaikan pada versi PHP yang digunakan pada tautan berikut [https://github.com/mongodb/mongo-php-driver/releases/![](</images/post/mongodb/Cuplikan layar 2024-01-28 172237.png>)](https://github.com/mongodb/mongo-php-driver/releases/)
+1. Silahkan unduh driver dan sesuaikan pada versi PHP yang digunakan pada tautan berikut [https://github.com/mongodb/mongo-php-driver/releases/ ](https://github.com/mongodb/mongo-php-driver/releases/)
 2. Kemudian ekstrak file yang sudah diunduh dan silahkan salin file php\_mongodb.dll ke direktori ekstensi php. Contohnya terletak pada C:\laragon\bin\php\php-8.2.3-nts-Win32-vs16-x64\ext. Jika menggunakan Laragon, untuk masuk ke direktori ekstensi dapat dilakukan dengan cara seperti berikut :![](</images/post/mongodb/Cuplikan layar 2024-01-28 172130.png>)
 3. Kemudian tambahkan baris berikut extension=php\_mongodb.dll ke file php.ini untuk setiap lingkungan yang perlu menggunakan driver. Jika menggunakan Laragon, untuk mengaktifkan ekstensi mongodb dapat dilakukan dengan cara seperti berikut :![](</images/post/mongodb/Cuplikan layar 2024-01-28 172204.png>)
 
