@@ -11,6 +11,7 @@ import { sortByDate } from "@lib/utils/sortFunctions";
 import { markdownify } from "@lib/utils/textConverter";
 import Link from "next/link";
 import { FaRegCalendar } from "react-icons/fa";
+import generateRssFeed from "@lib/utils/generateRSSFeed";
 const { blog_folder, pagination } = config.settings;
 
 const Home = ({
@@ -189,6 +190,7 @@ export default Home;
 
 // for homepage data
 export const getStaticProps = async () => {
+  await generateRssFeed();
   const homepage = await getListPage("content/_index.md");
   const { frontmatter } = homepage;
   const { banner, featured_posts, recent_posts } = frontmatter;
