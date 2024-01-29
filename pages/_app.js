@@ -8,6 +8,7 @@ import TagManager from "react-gtm-module";
 import "styles/style.scss";
 import ScrollToTop from "@layouts/components/ScrollToTop";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 
 const App = ({ Component, pageProps }) => {
   // default theme setup
@@ -62,6 +63,7 @@ const App = ({ Component, pageProps }) => {
         <Component {...pageProps} />
         <ScrollToTop />
         <Analytics />
+        <SpeedInsights />
       </ThemeProvider>
     </JsonContext>
   );
