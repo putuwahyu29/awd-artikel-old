@@ -44,3 +44,8 @@ node_modules
 .env
 
 /.idea
+
+# RSS and Sitemap
+
+/public/sitemap.xml
+/public/rss.xml
