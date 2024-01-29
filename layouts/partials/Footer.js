@@ -48,7 +48,7 @@ const Footer = () => {
               className="p-2 font-bold text-dark hover:text-primary dark:text-darkmode-light lg:p-4"
               target="_blank"
             >
-              RSS Feed
+              Umpan RSS
             </a>
           </li>
         </ul>
