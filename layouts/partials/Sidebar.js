@@ -166,7 +166,7 @@ const Sidebar = ({ posts, categories, className }) => {
           <h4 className="section-title">{newsletter.title}</h4>
           <p className="mt-10 text-xs">{newsletter.content}</p>
           <MailchimpSubscribe
-            url={newsletter.malichip_url}
+            url={newsletter.mailchimp_url}
             render={({ subscribe, status, message }) => (
               <CustomForm
                 status={status}
@@ -175,7 +175,7 @@ const Sidebar = ({ posts, categories, className }) => {
               />
             )}
           />
-          <p className="text-xs">
+          <p className="mt-2 text-xs">
             Jika berlangganan, Anda telah menyetujui
             <Link
               href={newsletter.privacy_policy_page}
