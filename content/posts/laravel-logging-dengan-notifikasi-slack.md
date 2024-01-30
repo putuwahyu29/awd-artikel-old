@@ -12,7 +12,7 @@ Salah satu cara untuk memanfaatkan Laravel Logging adalah dengan mengintegrasika
 
 ### Konfigurasi Slack Webhook URL
 
-1. Buatlah channel pada akun Slack Anda. Sebagai contoh, nama channelnya adalah laravel-log-notification 
+1. Buatlah channel pada akun Slack Anda. Sebagai contoh, nama channelnya adalah laravel-log-notification ![](</images/post/slack/Cuplikan layar 2024-01-29 184104.png>)
 2. Kemudian buku website [Slack API](https://api.slack.com/apps) lalu klik tombol Create New App dan pilih From Scratch ![](</images/post/slack/Cuplikan layar 2024-01-29 184449.png>)![](</images/post/slack/Cuplikan layar 2024-01-29 184508.png>)
 3. Selanjutnya isikan App Name lalu pilih workspace Slack Anda dan klik Create App![](</images/post/slack/Cuplikan layar 2024-01-29 184535.png>)
 4. Kemudian pada sidebar Slack API pilih Incoming Webhooks dan aktifkan![](</images/post/slack/Cuplikan layar 2024-01-29 184932.png>)
