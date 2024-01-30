@@ -16,15 +16,33 @@
   "footer": [
     {
       "name": "Beranda",
-      "url": "/"
+      "url": "/",
+      "blank": false
     },
     {
       "name": "Artikel",
-      "url": "/posts"
+      "url": "/posts",
+      "blank": false
     },
     {
       "name": "Kategori",
-      "url": "/categories"
+      "url": "/categories",
+      "blank": false
+    },
+    {
+      "name": "Peta Situs",
+      "url": "/sitemap.xml",
+      "blank": true
+    },
+    {
+      "name": "Umpan RSS",
+      "url": "/rss.xml",
+      "blank": true
+    },
+    {
+      "name": "Kebijakan Privasi",
+      "url": "#",
+      "blank": false
     }
   ]
 }

@@ -28,29 +28,13 @@ const Footer = () => {
               <Link
                 href={menu.url}
                 className="p-2 font-bold text-dark hover:text-primary dark:text-darkmode-light lg:p-4"
+                target={menu.blank ? "_blank" : ""}
               >
                 {menu.name}
               </Link>
             </li>
           ))}
-          <li className="inline-block">
-            <a
-              href="/sitemap.xml"
-              className="p-2 font-bold text-dark hover:text-primary dark:text-darkmode-light lg:p-4"
-              target="_blank"
-            >
-              Peta Situs
-            </a>
-          </li>
-          <li className="inline-block">
-            <a
-              href="/rss.xml"
-              className="p-2 font-bold text-dark hover:text-primary dark:text-darkmode-light lg:p-4"
-              target="_blank"
-            >
-              Umpan RSS
-            </a>
-          </li>
+        
         </ul>
         {/* copyright */}
         {markdownify(
