@@ -15,21 +15,6 @@
   ],
   "footer": [
     {
-      "name": "Beranda",
-      "url": "/",
-      "blank": false
-    },
-    {
-      "name": "Artikel",
-      "url": "/posts",
-      "blank": false
-    },
-    {
-      "name": "Kategori",
-      "url": "/categories",
-      "blank": false
-    },
-    {
       "name": "Peta Situs",
       "url": "/sitemap.xml",
       "blank": true

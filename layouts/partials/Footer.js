@@ -8,13 +8,7 @@ import Link from "next/link";
 const Footer = () => {
   const { copyright, footer_content } = config.params;
   return (
-    <footer className="section relative mt-12 bg-slate-100 pb-[50px] pt-[70px] dark:bg-dark">
-      {/* <ImageFallback
-        className="-z-[1] object-cover object-left  md:object-top"
-        src="/images/footer-bg-shape.svg"
-        alt="footer background"
-        fill={true}
-      /> */}
+    <footer className="section relative mt-8 bg-slate-100 pb-[50px] pt-[50px] dark:bg-dark">
       <div className="container text-center">
         <div className="mb-6 inline-flex">
           <Logo />
@@ -34,7 +28,6 @@ const Footer = () => {
               </Link>
             </li>
           ))}
-        
         </ul>
         {/* copyright */}
         {markdownify(
